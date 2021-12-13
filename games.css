@@ -1,0 +1,22 @@
+#section4
+{
+    background-image: url("img/18.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+}
+#section4 h2
+{
+    font-size: 60px;
+    color:white;
+    padding-top:200px;
+}
+#section4 p
+{
+    font-size: 20px;
+    letter-spacing: 1px;;
+}
+#section7
+{
+    background-image: none;
+}
