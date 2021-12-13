@@ -1,0 +1,10 @@
+1. create account on github
+2. create new repository
+3. download git bash (inly ones)
+4. Create a Empty Folder (LocalSystem) 
+5. Open Git Bash 
+6. Create Clone of the repository ( Command : git clone  repositorylink)
+7. git add .
+8. git status
+9. git commit -m "first save"
+10 git push -u origin main
